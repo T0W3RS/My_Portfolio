@@ -6,5 +6,5 @@ using the Runge-Kutta Fourth Order numerical method is approached. The adopted p
 are shown, as well as their computational application to four radioactive decay chains: Thorium Series, 
 Uranium Series, Actinium Series, Neptunium Series and Artificial Series.
 
-For a full understandind, please check [Proceedings CBEB_2020] (https://link.springer.com/chapter/10.1007/978-3-030-70601-2_339)
+For a full understanding, please check [Proceedings CBEB_2020] (https://link.springer.com/chapter/10.1007/978-3-030-70601-2_339)
 

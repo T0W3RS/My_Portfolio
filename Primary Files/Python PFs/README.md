@@ -1,1 +1,1 @@
-My diretory for significant files.
+Just interesting Python files.

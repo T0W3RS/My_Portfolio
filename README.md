@@ -1,5 +1,5 @@
 Hello!!! 
-My name is Fernando Balbina and this is my Portfolio.
+My name is Fernando Torres Coimbra de Sá Balbina Balbina and this is my Portfolio.
 
 As a Researcher, I have applied my skills and knowledge in programming, data analysis and computational modeling to multidisciplinary research projects 
 aimed at improving the diagnosis and treatment of diseases. I have worked on the optical characterization of photosensitive drugs, using laser beam modulation
